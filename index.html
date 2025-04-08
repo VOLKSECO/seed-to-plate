@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seed to plate</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="theme-toggle">
+            <button id="light-theme" title="Light Theme">☀️</button>
+            <button id="dark-theme" title="Dark Theme">🌙</button>
+        </div>
+        <h1 data-i18n="title">From the seed to the plate</h1>
+        <div class="lang-switcher">
+            <button id="lang-en" data-lang="en">EN</button>
+            <button id="lang-fr" data-lang="fr">FR</button>
+            <button id="lang-pt" data-lang="pt">PT</button>
+        </div>
+    </header>
+    <nav>
+        <button data-filter="locations" data-i18n="locations">Locations</button>
+        <button class="active" data-filter="seeds" data-i18n="seeds">Seeds</button>
+        <button data-filter="seeding" data-i18n="seeding">Seeding</button>
+        <button data-filter="seedlings" data-i18n="seedlings">Seedlings</button>
+        <button data-filter="plants" data-i18n="plants">Plants</button>
+        <button data-filter="food" data-i18n="food">Food</button>
+    </nav>
+    <main>
+        <!-- Texte explicatif -->
+        <section id="help-text" class="help-text"></section>
+        <!-- Section pour les éléments à venir cette semaine -->
+        <section id="upcoming-container">
+            <h2 id="upcoming-title"></h2>
+            <div id="upcoming-content" class="upcoming-grid"></div>
+        </section>
+        <!-- Conteneur pour filtres et recherche -->
+        <section id="filter-container">
+            <input type="text" id="seed-search" placeholder="Search seeds by common name...">
+            <select id="location-filter">
+                <option value="">All Locations</option>
+                <!-- Options dynamiques ajoutées via JS -->
+            </select>
+            <select id="plant-filter">
+                <option value="">All Plants</option>
+                <!-- Options dynamiques ajoutées via JS -->
+            </select>
+        </section>
+        <!-- Grille principale -->
+        <section id="content-container">
+            <div id="content" class="main-grid"></div>
+            <aside id="stats"></aside>
+        </section>
+    </main>
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">×</span>
+            <form id="dynamic-form"></form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
