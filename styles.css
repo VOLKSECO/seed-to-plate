@@ -1,3 +1,4 @@
+/* Variables globales */
 :root {
     --primary: #4983ff;
     --secondary: #13cf1c;
@@ -17,32 +18,41 @@
 }
 
 [data-theme="dark"] .vcard h3 {
-    color: #ffda1f; /* Jaune pour tous les h3 en mode sombre, y compris "+ New" */
+    color: #ffda1f; /* Jaune pour tous les h3 en mode sombre */
+}
+
+/* Reset et styles de base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
     font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
     background: var(--background);
     color: var(--text);
+    padding: 2vw; /* Padding relatif à la largeur de l'écran */
+    min-height: 100vh;
 }
 
+/* En-tête */
 header {
     background: var(--primary);
     color: #ffda1f;
-    padding: 10px 20px;
+    padding: 1% 2%;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 100%;
 }
 
 .theme-toggle button, .lang-switcher button {
     background: none;
     border: none;
-    font-size: 18px;
+    font-size: 1.2rem;
     cursor: pointer;
-    margin-right: 10px;
+    margin-right: 1%;
 }
 
 .lang-switcher button.active {
@@ -50,18 +60,21 @@ header {
     text-decoration: underline;
 }
 
+/* Navigation */
 nav {
     background: var(--secondary);
-    padding: 10px;
+    padding: 1%;
+    width: 100%;
 }
 
 nav button {
-    margin: 0 5px;
-    padding: 5px 10px;
+    margin: 0 0.5%;
+    padding: 0.5% 1%;
     border: none;
     background: none;
     cursor: pointer;
     transition: background 0.3s;
+    font-size: 1rem;
 }
 
 nav button.active {
@@ -70,110 +83,122 @@ nav button.active {
     border-radius: 5px;
 }
 
+/* Contenu principal */
 main {
-    padding: 20px;
+    padding: 2%;
     display: flex;
-    flex-direction: column; /* Les sections s'empilent verticalement */
-    gap: 20px; /* Espacement entre les sections */
+    flex-direction: column;
+    gap: 2%;
+    width: 100%;
 }
 
 .help-text {
-    padding: 10px;
+    padding: 1%;
     background: var(--card-bg);
     border: 1px solid var(--border);
     border-radius: 5px;
     text-align: center;
+    width: 100%;
 }
 
 #upcoming-container {
-    display: none; /* Masqué par défaut, activé via JS */
+    display: none;
+    width: 100%;
 }
 
 #upcoming-title {
     color: var(--primary);
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 1%;
+    font-size: 1.5rem;
 }
 
 .upcoming-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 15px;
+    grid-template-columns: repeat(auto-fill, minmax(20%, 1fr));
+    gap: 1.5%;
+    width: 100%;
 }
 
 #filter-container {
     display: flex;
     justify-content: center;
-    gap: 10px;
-    padding: 10px 0;
+    gap: 1%;
+    padding: 1% 0;
+    width: 100%;
 }
 
 #seed-search, #location-filter, #plant-filter {
-    padding: 8px;
+    padding: 0.8%;
     border: 1px solid var(--border);
     border-radius: 5px;
     background: var(--card-bg);
     color: var(--text);
-    display: none; /* Masqué par défaut, activé via JS */
+    display: none;
+    width: 100%;
+    max-width: 30%;
 }
 
 #seed-search {
-    width: 100%;
-    max-width: 300px;
+    max-width: 25%;
 }
 
+/* Conteneur principal et grille */
 #content-container {
     display: flex;
-    gap: 20px;
+    gap: 2%;
+    width: 100%;
 }
 
 .main-grid {
     flex: 3;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 15px;
+    grid-template-columns: repeat(auto-fill, minmax(20%, 1fr));
+    gap: 1.5%;
+    width: 100%;
 }
 
 .vcard {
     background: var(--card-bg);
     border: 1px solid var(--border);
-    padding: 15px;
+    padding: 1.5%;
     text-align: center;
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.4vw 0.6vw rgba(0, 0, 0, 0.1);
     transition: transform 0.2s, box-shadow 0.2s;
     position: relative;
+    width: 100%;
 }
 
 .vcard:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    transform: translateY(-0.5%);
+    box-shadow: 0 0.6vw 1.2vw rgba(0, 0, 0, 0.15);
 }
 
 .vcard img {
     max-width: 100%;
-    height: 120px;
+    height: 12vh; /* Hauteur relative à la hauteur de l'écran */
     object-fit: cover;
     border-radius: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 1%;
 }
 
 .vcard h3 {
-    margin: 10px 0;
-    font-size: 1.2em;
+    margin: 1% 0;
+    font-size: 1.2rem;
     color: var(--primary);
 }
 
 .vcard p {
-    margin: 5px 0;
-    font-size: 0.9em;
+    margin: 0.5% 0;
+    font-size: 0.9rem;
 }
 
 .vcard button.edit {
     position: absolute;
-    top: 10px;
-    right: 10px;
-    padding: 5px 10px;
+    top: 1%;
+    right: 1%;
+    padding: 0.5% 1%;
     border: none;
     background: var(--secondary);
     cursor: pointer;
@@ -181,23 +206,26 @@ main {
 }
 
 .vcard button.sow {
-    margin-top: 10px;
-    padding: 5px 10px;
+    margin-top: 1%;
+    padding: 0.5% 1%;
     border: none;
     background: var(--secondary);
     cursor: pointer;
     border-radius: 5px;
 }
 
+/* Statistiques */
 #stats {
     flex: 1;
-    padding: 15px;
+    padding: 1.5%;
     background: var(--card-bg);
     border: 1px solid var(--border);
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.4vw 0.6vw rgba(0, 0, 0, 0.1);
+    width: 100%;
 }
 
+/* Modal */
 .modal {
     display: none;
     position: fixed;
@@ -210,25 +238,26 @@ main {
 
 .modal-content {
     background: var(--background);
-    margin: 15% auto;
-    padding: 20px;
+    margin: 10% auto;
+    padding: 2%;
     width: 80%;
-    max-width: 500px;
+    max-width: 90%;
     border: 1px solid var(--border);
     border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.4vw 0.6vw rgba(0, 0, 0, 0.1);
 }
 
 .close {
     float: right;
-    font-size: 20px;
+    font-size: 1.5rem;
     cursor: pointer;
 }
 
 form {
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 1.5%;
+    width: 100%;
 }
 
 form label {
@@ -236,11 +265,12 @@ form label {
 }
 
 form input, form select {
-    padding: 8px;
+    padding: 0.8%;
     border: 1px solid var(--border);
     background: var(--card-bg);
     color: var(--text);
     border-radius: 5px;
+    width: 100%;
 }
 
 form input[readonly], form input[disabled] {
@@ -253,12 +283,130 @@ form button {
     background: var(--primary);
     color: white;
     border: none;
-    padding: 10px;
+    padding: 1%;
     cursor: pointer;
     border-radius: 5px;
+    width: 100%;
 }
 
 form button.delete {
     background: #e57373;
-    margin-top: 10px;
+    margin-top: 1%;
+}
+
+/* Media Queries pour responsivité */
+
+/* Ordinateur (largeur > 768px) reste comme ci-dessus */
+
+/* Smartphone horizontal (max-width: 768px) */
+@media (max-width: 768px) and (orientation: landscape) {
+    header {
+        padding: 1% 1%;
+    }
+
+    nav button {
+        font-size: 0.9rem;
+        padding: 0.5% 0.8%;
+    }
+
+    .main-grid, .upcoming-grid {
+        grid-template-columns: repeat(auto-fill, minmax(30%, 1fr));
+    }
+
+    #content-container {
+        flex-direction: row;
+        gap: 1%;
+    }
+
+    #stats {
+        flex: 2;
+    }
+
+    .vcard img {
+        height: 10vh;
+    }
+
+    .modal-content {
+        width: 90%;
+        margin: 5% auto;
+    }
+
+    form button {
+        padding: 0.8%;
+    }
+}
+
+/* Smartphone vertical (max-width: 480px) */
+@media (max-width: 480px) and (orientation: portrait) {
+    header {
+        flex-direction: column;
+        padding: 2% 1%;
+    }
+
+    .theme-toggle button, .lang-switcher button {
+        font-size: 1rem;
+        margin: 0.5% 0;
+    }
+
+    nav {
+        padding: 2%;
+    }
+
+    nav button {
+        display: block;
+        width: 100%;
+        margin: 0.5% 0;
+        font-size: 1rem;
+    }
+
+    main {
+        padding: 3%;
+    }
+
+    .main-grid, .upcoming-grid {
+        grid-template-columns: 1fr; /* Une seule colonne */
+    }
+
+    #content-container {
+        flex-direction: column;
+        gap: 2%;
+    }
+
+    #stats {
+        order: -1; /* Stats en haut sur mobile */
+    }
+
+    #seed-search, #location-filter, #plant-filter {
+        max-width: 100%;
+    }
+
+    .vcard {
+        padding: 2%;
+    }
+
+    .vcard img {
+        height: 20vh;
+    }
+
+    .vcard h3 {
+        font-size: 1.1rem;
+    }
+
+    .vcard p {
+        font-size: 0.8rem;
+    }
+
+    .modal-content {
+        width: 95%;
+        margin: 10% auto;
+        padding: 3%;
+    }
+
+    form input, form select {
+        padding: 1%;
+    }
+
+    form button {
+        padding: 1.5%;
+    }
 }
