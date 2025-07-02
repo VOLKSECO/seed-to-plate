@@ -1,1049 +1,1137 @@
-# Oregano
-## Photo: data/pics/Oregano.jpg
-## Common Name: Oregano
-## Scientific Name: Origanum vulgare
-## Wikipedia: https://en.wikipedia.org/wiki/Oregano
-## Origin: Mediterranean
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Ornamental Sunflower
-## Photo: data/pics/Ornamental_Sunflower.png
-## Common Name: Ornamental Sunflower
-## Scientific Name: Helianthus annuus
-## Wikipedia: https://en.wikipedia.org/wiki/Sunflower
-## Origin: North America
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Cherry Tomato
-## Photo: data/pics/Cherry_Tomato.jpg
-## Common Name: Cherry Tomato
-## Scientific Name: Solanum lycopersicum
-## Wikipedia: https://en.wikipedia.org/wiki/Cherry_tomato
-## Origin: South America
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 6-12
-## Transplant Time: 25-35
-## Harvest Time: 12-14
-
-# Padrón Pepper
-## Photo: data/pics/Padrón_Pepper.jpg
-## Common Name: Padrón Pepper
-## Scientific Name: Capsicum annuum
-## Wikipedia: https://en.wikipedia.org/wiki/Padr%C3%B3n_peppers
-## Origin: Spain
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 10-20
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Chilli Pepper
-## Photo: data/pics/Chilli_Pepper.jpg
-## Common Name: Chilli Pepper
-## Scientific Name: Capsicum spp.
-## Wikipedia: https://en.wikipedia.org/wiki/Chili_pepper
-## Origin: Central America
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 10-20
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Parsley Moss Curled 2
-## Photo: data/pics/Parsley_Moss_Curled_2.jpg
-## Common Name: Parsley Moss Curled 2
-## Scientific Name: Petroselinum crispum
-## Wikipedia: https://en.wikipedia.org/wiki/Parsley
-## Origin: Europe
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 14-28
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Chives (Cebolinho)
-## Photo: data/pics/Chives_(Cebolinho).png
-## Common Name: Chives (Cebolinho)
-## Scientific Name: Allium schoenoprasum
-## Wikipedia: https://en.wikipedia.org/wiki/Chives
-## Origin: Europe
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 6-7
-
-# Patisson Orange Pumpkin
-## Photo: data/pics/Patisson_Orange_Pumpkin.jpg
-## Common Name: Patisson Orange Pumpkin
-## Scientific Name: Cucurbita pepo
-## Wikipedia: https://en.wikipedia.org/wiki/Patisson
-## Origin: France
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Pear Melon Vietnam
-## Photo: data/pics/Pear_Melon_Vietnam.jpg
-## Common Name: Pear Melon Vietnam
-## Scientific Name: Cucumis melo
-## Wikipedia: https://en.wikipedia.org/wiki/Melon
-## Origin: Vietnam
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Cilantro (Salsa)
-## Photo: data/pics/Cilantro_(Salsa).jpg
-## Common Name: Cilantro (Salsa)
-## Scientific Name: Coriandrum sativum
-## Wikipedia: https://en.wikipedia.org/wiki/Coriander
-## Origin: Mediterranean
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Peperoni Bhut Jokolia
-## Photo: data/pics/Peperoni_Bhut_Jokolia.jpg
-## Common Name: Peperoni Bhut Jokolia
-## Scientific Name: Capsicum chinense
-## Wikipedia: https://en.wikipedia.org/wiki/Bhut_jolokia
-## Origin: India
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 10-20
-## Transplant Time: 30-40
-## Harvest Time: 14-15
-
-# Coffee
-## Photo: data/pics/Coffee.jpg
-## Common Name: Coffee
-## Scientific Name: Coffea arabica
-## Wikipedia: https://en.wikipedia.org/wiki/Coffea_arabica
-## Origin: Ethiopia
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 30-60
-## Transplant Time: 60-90
-## Harvest Time: 36-38
-
-# Pepper
-## Photo: data/pics/Pepper.jpg
-## Common Name: Pepper
-## Scientific Name: Capsicum annuum
-## Wikipedia: https://en.wikipedia.org/wiki/Capsicum
-## Origin: Central America
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 10-20
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Pepper Zulu
-## Photo: data/pics/Pepper_Zulu.jpg
-## Common Name: Pepper Zulu
-## Scientific Name: Capsicum annuum
-## Wikipedia: https://en.wikipedia.org/wiki/Capsicum
-## Origin: Africa
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 10-20
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Plum Tomato
-## Photo: data/pics/Plum_tomato.jpg
-## Common Name: Plum Tomato
-## Scientific Name: Solanum lycopersicum
-## Wikipedia: https://en.wikipedia.org/wiki/Plum_tomato
-## Origin: South America
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 6-12
-## Transplant Time: 25-35
-## Harvest Time: 12-14
-
-# Pumpkin Butternut
-## Photo: data/pics/Pumpkin_Butternut.jpg
-## Common Name: Pumpkin Butternut
-## Scientific Name: Cucurbita moschata
-## Wikipedia: https://en.wikipedia.org/wiki/Butternut_squash
-## Origin: North America
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 14-15
-
-# Pumpkin, No Shell Seeds
-## Photo: data/pics/Pumpkin,_No_Shell_Seeds.jpg
-## Common Name: Pumpkin, No Shell Seeds
-## Scientific Name: Cucurbita pepo
-## Wikipedia: https://en.wikipedia.org/wiki/Pumpkin
-## Origin: Unknown
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 14-15
-
-# Pumpkin, unknown 1
-## Photo: data/pics/Pumpkin,_unknown_1.jpg
-## Common Name: Pumpkin, unknown 1
-## Scientific Name: Cucurbita spp.
-## Wikipedia: https://en.wikipedia.org/wiki/Pumpkin
-## Origin: Unknown
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 14-15
-
-# Purple Basil
-## Photo: data/pics/Purple_Basil.jpg
-## Common Name: Purple Basil
-## Scientific Name: Ocimum basilicum
-## Wikipedia: https://en.wikipedia.org/wiki/Basil
-## Origin: Asia
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 5-10
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Radish Long Red
-## Photo: data/pics/Radish_Long_Red.jpg
-## Common Name: Radish Long Red
-## Scientific Name: Raphanus sativus
-## Wikipedia: https://en.wikipedia.org/wiki/Radish
-## Origin: Asia
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 5-10
-## Transplant Time: 20-30
-## Harvest Time: 6-7
-
-# Radish Watermelon Vietnam
-## Photo: data/pics/Radish_Watermelon_Vietnam.jpg
-## Common Name: Radish Watermelon Vietnam
-## Scientific Name: Raphanus sativus
-## Wikipedia: https://en.wikipedia.org/wiki/Radish
-## Origin: Vietnam
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 5-10
-## Transplant Time: 20-30
-## Harvest Time: 6-7
-
-# Rainbow F1 Carrot
-## Photo: data/pics/Rainbow_F1_Carrot.jpg
-## Common Name: Rainbow F1 Carrot
-## Scientific Name: Daucus carota
-## Wikipedia: https://en.wikipedia.org/wiki/Carrot
-## Origin: Hybrid
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 10-20
-## Transplant Time: 25-35
-## Harvest Time: 10-12
-
-# Red Cabbage
-## Photo: data/pics/Red_Cabbage.png
-## Common Name: Red Cabbage
-## Scientific Name: Brassica oleracea
-## Wikipedia: https://en.wikipedia.org/wiki/Red_cabbage
-## Origin: Europe
-## Quantity: 10
-## Sowing Months: June, July
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 14-15
-
-# Rosemary
-## Photo: data/pics/Rosemary.jpg
-## Common Name: Rosemary
-## Scientific Name: Rosmarinus officinalis
-## Wikipedia: https://en.wikipedia.org/wiki/Rosemary
-## Origin: Mediterranean
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 14-28
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Silk Tree
-## Photo: data/pics/Silk_Tree.jpg
-## Common Name: Silk Tree
-## Scientific Name: Albizia julibrissin
-## Wikipedia: https://en.wikipedia.org/wiki/Albizia_julibrissin
-## Origin: Asia
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 20-30
-## Transplant Time: 40-60
-## Harvest Time: N/A
-
-# Stevia
-## Photo: data/pics/Stevia.jpg
-## Common Name: Stevia
-## Scientific Name: Stevia rebaudiana
-## Wikipedia: https://en.wikipedia.org/wiki/Stevia
-## Origin: South America
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 10-15
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Summer Savory
-## Photo: data/pics/Summer_savory.jpg
-## Common Name: Summer Savory
-## Scientific Name: Satureja hortensis
-## Wikipedia: https://en.wikipedia.org/wiki/Summer_savory
-## Origin: Mediterranean
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Sunflower
-## Photo: data/pics/Sunflower.jpg
-## Common Name: Sunflower
-## Scientific Name: Helianthus annuus
-## Wikipedia: https://en.wikipedia.org/wiki/Sunflower
-## Origin: North America
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Suriname Cherry
-## Photo: data/pics/Suriname_cherry.jpg
-## Common Name: Suriname Cherry
-## Scientific Name: Eugenia uniflora
-## Wikipedia: https://en.wikipedia.org/wiki/Suriname_cherry
-## Origin: South America
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 20-30
-## Transplant Time: 40-60
-## Harvest Time: 20-22
-
-# Tarragon
-## Photo: data/pics/Tarragon.jpg
-## Common Name: Tarragon
-## Scientific Name: Artemisia dracunculus
-## Wikipedia: https://en.wikipedia.org/wiki/Tarragon
-## Origin: Europe
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 10-20
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Thyme
-## Photo: data/pics/Thyme.jpg
-## Common Name: Thyme
-## Scientific Name: Thymus vulgaris
-## Wikipedia: https://en.wikipedia.org/wiki/Thyme
-## Origin: Mediterranean
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 14-28
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Unknown
-## Photo: data/pics/Unknown.png
-## Common Name: Unknown
-## Scientific Name: Unknown
-## Wikipedia: N/A
-## Origin: Unknown
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Watermelon Gesteira
-## Photo: data/pics/Watermelon_Gesteira.jpg
-## Common Name: Watermelon Gesteira
-## Scientific Name: Citrullus lanatus
-## Wikipedia: https://en.wikipedia.org/wiki/Watermelon
-## Origin: Portugal
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Watermelon Rubea
-## Photo: data/pics/Watermelon_Rubea.jpg
-## Common Name: Watermelon Rubea
-## Scientific Name: Citrullus lanatus
-## Wikipedia: https://en.wikipedia.org/wiki/Watermelon
-## Origin: Unknown
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Watermelon Syria
-## Photo: data/pics/Watermelon_Syria.jpg
-## Common Name: Watermelon Syria
-## Scientific Name: Citrullus lanatus
-## Wikipedia: https://en.wikipedia.org/wiki/Watermelon
-## Origin: Syria
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Green Onion
-## Photo: data/pics/Green_Onion.jpg
-## Common Name: Green Onion
-## Scientific Name: Allium fistulosum
-## Wikipedia: https://en.wikipedia.org/wiki/Scallion
-## Origin: Asia
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Head Celery
-## Photo: data/pics/Head_Celery.jpg
-## Common Name: Head Celery
-## Scientific Name: Apium graveolens
-## Wikipedia: https://en.wikipedia.org/wiki/Celery
-## Origin: Mediterranean
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 14-21
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Immortal Flowers
-## Photo: data/pics/Immortal_Flowers.jpg
-## Common Name: Immortal Flowers
-## Scientific Name: Helichrysum bracteatum
-## Wikipedia: https://en.wikipedia.org/wiki/Helichrysum
-## Origin: Australia
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Jade Melon
-## Photo: data/pics/Jade_Melon.jpg
-## Common Name: Jade Melon
-## Scientific Name: Cucumis melo
-## Wikipedia: https://en.wikipedia.org/wiki/Melon
-## Origin: Asia
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Landsberger Mixture
-## Photo: data/pics/Landsberger_mixture.jpg
-## Common Name: Landsberger Mixture
-## Scientific Name: Various
-## Wikipedia: N/A
-## Origin: Germany
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Lavender Alfalfa
-## Photo: data/pics/Lavender_Alfalfa.jpg
-## Common Name: Lavender Alfalfa
-## Scientific Name: Medicago sativa
-## Wikipedia: https://en.wikipedia.org/wiki/Alfalfa
-## Origin: Unknown
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Leek de Carentan 3
-## Photo: data/pics/Leek_de_Carentan_3.jpg
-## Common Name: Leek de Carentan 3
-## Scientific Name: Allium ampeloprasum
-## Wikipedia: https://en.wikipedia.org/wiki/Leek
-## Origin: France
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 7-14
-## Transplant Time: 30-45
-## Harvest Time: 10-12
-
-# Lemon Balm
-## Photo: data/pics/Lemon_Balm.jpg
-## Common Name: Lemon Balm
-## Scientific Name: Melissa officinalis
-## Wikipedia: https://en.wikipedia.org/wiki/Lemon_balm
-## Origin: Europe
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 10-15
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Lemon Basil
-## Photo: data/pics/Lemon_Basil.jpg
-## Common Name: Lemon Basil
-## Scientific Name: Ocimum basilicum citriodorum
-## Wikipedia: https://en.wikipedia.org/wiki/Basil
-## Origin: Asia
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 5-10
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Lemongrass
-## Photo: data/pics/Lemongrass.png
-## Common Name: Lemongrass
-## Scientific Name: Cymbopogon citratus
-## Wikipedia: https://en.wikipedia.org/wiki/Cymbopogon
-## Origin: Southeast Asia
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 10-20
-## Transplant Time: 20-30
-## Harvest Time: 12-14
-
-# Lettuce Bonde de Paris
-## Photo: data/pics/Lettuce_Bonde_de_Paris.jpg
-## Common Name: Lettuce Bonde de Paris
-## Scientific Name: Lactuca sativa
-## Wikipedia: https://en.wikipedia.org/wiki/Lettuce
-## Origin: France
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Luffa Pumpkin
-## Photo: data/pics/Luffa_Pumpkin.jpg
-## Common Name: Luffa Pumpkin
-## Scientific Name: Luffa aegyptiaca
-## Wikipedia: https://en.wikipedia.org/wiki/Luffa
-## Origin: Asia
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 14-15
-
-# Common Chervil
-## Photo: data/pics/Common_Chervil.jpg
-## Common Name: Common Chervil
-## Scientific Name: Anthriscus cerefolium
-## Wikipedia: https://en.wikipedia.org/wiki/Chervil
-## Origin: Europe
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 10-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Common Coriander
-## Photo: data/pics/Common_Coriander.jpg
-## Common Name: Common Coriander
-## Scientific Name: Coriandrum sativum
-## Wikipedia: https://en.wikipedia.org/wiki/Coriander
-## Origin: Mediterranean
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Coriander King May
-## Photo: data/pics/Coriander_king_may.jpg
-## Common Name: Coriander King May
-## Scientific Name: Coriandrum sativum
-## Wikipedia: https://en.wikipedia.org/wiki/Coriander
-## Origin: Unknown
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Coriander Syria
-## Photo: data/pics/Coriander_Syria.jpg
-## Common Name: Coriander Syria
-## Scientific Name: Coriandrum sativum
-## Wikipedia: https://en.wikipedia.org/wiki/Coriander
-## Origin: Syria
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Cotton Syria
-## Photo: data/pics/Cotton_Syria.jpg
-## Common Name: Cotton Syria
-## Scientific Name: Gossypium hirsutum
-## Wikipedia: https://en.wikipedia.org/wiki/Cotton
-## Origin: Syria
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 20-22
-
-# Cucumber Deiri Syria
-## Photo: data/pics/Cucumber_Deiri_Syria.jpg
-## Common Name: Cucumber Deiri Syria
-## Scientific Name: Cucumis sativus
-## Wikipedia: https://en.wikipedia.org/wiki/Cucumber
-## Origin: Syria
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Cumin Black
-## Photo: data/pics/Cumin_Black.jpg
-## Common Name: Cumin Black
-## Scientific Name: Nigella sativa
-## Wikipedia: https://en.wikipedia.org/wiki/Nigella_sativa
-## Origin: Middle East
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Custard Apple
-## Photo: data/pics/Custard_Apple.jpg
-## Common Name: Custard Apple
-## Scientific Name: Annona reticulata
-## Wikipedia: https://en.wikipedia.org/wiki/Custard_apple
-## Origin: Central America
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 20-30
-## Transplant Time: 40-60
-## Harvest Time: 24-26
-
-# Dill
-## Photo: data/pics/Dill.png
-## Common Name: Dill
-## Scientific Name: Anethum graveolens
-## Wikipedia: https://en.wikipedia.org/wiki/Dill
-## Origin: Europe
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 10-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-
-# Double Sunflower
-## Photo: data/pics/Double_Sunflower.jpg
-## Common Name: Double Sunflower
-## Scientific Name: Helianthus annuus
-## Wikipedia: https://en.wikipedia.org/wiki/Sunflower
-## Origin: North America
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 10-12
-
-# Eggplant Tskanoki
-## Photo: data/pics/Eggplant_Tskanoki.jpg
-## Common Name: Eggplant Tskanoki
-## Scientific Name: Solanum melongena
-## Wikipedia: https://en.wikipedia.org/wiki/Eggplant
-## Origin: Unknown
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-
-# Fennel
-## Photo: data/pics/Fennel.png
-## Common Name: Fennel
-## Scientific Name: Foeniculum vulgare
-## Wikipedia: https://en.wikipedia.org/wiki/Fennel
-## Origin: Mediterranean
-## Quantity: 10
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 25-35
-## Harvest Time: 12-14
-
-# Choy Sum
-## Photo: data/pics/Choy_sum.jpg
-## Common Name: Choy Sum
-## Scientific Name: Brassica rapa var. parachinensis
-## Wikipedia: https://en.wikipedia.org/wiki/Choy_sum
-## Origin: China
-## Quantity: 10
-## Sowing Months: March, April
-## Germination Time: 5-10
-## Transplant Time: 20-30
-## Harvest Time: 6-7
-
-# Mint
-## Common Name: Mint
-## Scientific Name: Mentha spp.
-## Origin: Europe
-## Quantity: 11
-## Sowing Months: April, May
-## Germination Time: 10-15
-## Transplant Time: 20-25
-## Harvest Time: 6-7
-## Photo: data/pics/Mint.jpg
-
-# Basil
-## Common Name: Basil
-## Scientific Name: Ocimum basilicum
-## Origin: Italy
-## Quantity: 0
-## Sowing Months: April, May
-## Germination Time: 5-10
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-## Photo: data/pics/Basil.jpg
-
-# Calebasse Syria
-## Common Name: Calebasse Syria
-## Scientific Name: Lagenaria siceraria
-## Origin: Syria
-## Quantity: 10
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 16-17
-## Photo: data/pics/Calebasse_Syria.jpg
-
-# Onion Purple de Amposta
-## Common Name: Onion Purple de Amposta
-## Scientific Name: Allium cepa
-## Origin: Spain
-## Sowing Months: March, April
-## Germination Time: 10-15
-## Transplant Time: 25-35
-## Harvest Time: 12-14
-## Photo: data/pics/Onion_Purple_de_Amposta.jpg
-## Quantity: 9
-
-# Carrot
-## Common Name: Carrot
-## Scientific Name: Daucus carota
-## Origin: Europe
-## Sowing Months: March, April
-## Germination Time: 10-20
-## Transplant Time: 25-35
-## Harvest Time: 10-12
-## Photo: data/pics/Carrot.jpg
-## Quantity: 200
-
-# Okra Red Vietnam
-## Common Name: Okra Red Vietnam
-## Scientific Name: Abelmoschus esculentus
-## Origin: Vietnam
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 25-35
-## Harvest Time: 10-12
-## Photo: data/pics/Okra_Red_Vietnam.jpg
-## Quantity: 7
-
-# Tomato Tigerella
-## Common Name: Tomato Tigerella
-## Scientific Name: Solanum lycopersicum
-## Origin: Hybrid
-## Sowing Months: March, April
-## Germination Time: 6-12
-## Transplant Time: 25-35
-## Harvest Time: 12-14
-## Photo: data/pics/Tomato_Tigerella.jpg
-## Quantity: 100
-
-# Peperoni Selma Bell
-## Common Name: Peperoni Selma Bell
-## Scientific Name: Capsicum annuum
-## Origin: Unknown
-## Sowing Months: March, April
-## Germination Time: 10-20
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-## Photo: data/pics/Peperoni_Selma_Bell.jpg
-## Quantity: 50
-
-# Eggplant Blue King
-## Common Name: Eggplant Blue King
-## Scientific Name: Solanum melongena
-## Origin: Unknown
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-## Photo: data/pics/Eggplant_Blue_King.jpg
-## Quantity: 50
-
-# Tomato from Crimea
-## Common Name: Tomato from Crimea
-## Scientific Name: Solanum lycopersicum
-## Origin: Ukraine
-## Sowing Months: March, April
-## Germination Time: 6-12
-## Transplant Time: 25-35
-## Harvest Time: 12-14
-## Photo: data/pics/Tomato_from_Crimea.jpg
-## Quantity: 50
-
-# Giant Spinach
-## Common Name: Giant Spinach
-## Scientific Name: Spinacia oleracea
-## Origin: Unknown
-## Sowing Months: March, April
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 6-7
-## Photo: data/pics/Giant_Spinach.jpg
-## Quantity: 30
-
-# Eggplant Jamal
-## Common Name: Eggplant Jamal
-## Scientific Name: Solanum melongena
-## Origin: Unknown
-## Sowing Months: April, May
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-## Photo: data/pics/Eggplant_Jamal.png
-## Quantity: 30
-
-# Swiss Chard Syria
-## Common Name: Swiss Chard Syria
-## Scientific Name: Beta vulgaris subsp. vulgaris
-## Origin: Syria
-## Sowing Months: March, April
-## Germination Time: 7-14
-## Transplant Time: 25-35
-## Harvest Time: 8-10
-## Photo: data/pics/Swiss_Chard_Syria.jpg
-## Quantity: 30
-
-# Giant Leeks
-## Common Name: Giant Leeks
-## Scientific Name: Allium ampeloprasum
-## Origin: France
-## Sowing Months: March, April
-## Germination Time: 7-14
-## Transplant Time: 30-45
-## Harvest Time: 10-12
-## Photo: data/pics/Giant_Leeks.jpg
-## Quantity: 50
-
-# Beet Syria
-## Common Name: Beet Syria
-## Scientific Name: Beta vulgaris
-## Origin: Syria
-## Sowing Months: March, April
-## Germination Time: 10-15
-## Transplant Time: 25-35
-## Harvest Time: 10-12
-## Photo: data/pics/Beet_Syria.jpg
-## Quantity: 60
-
-# Spinach
-## Common Name: Spinach
-## Scientific Name: Spinacia oleracea
-## Origin: Persia
-## Sowing Months: March, April, September, October
-## Germination Time: 5-14
-## Transplant Time: 20-30
-## Harvest Time: 6-8
-## Photo: data/pics/Spinach.jpg
-## Quantity: 50
-
-# Strawberry
-## Common Name: Strawberry
-## Scientific Name: Fragaria × ananassa
-## Origin: Europe/North America (hybrid)
-## Sowing Months: February, March
-## Germination Time: 14-42
-## Transplant Time: 40-60
-## Harvest Time: 12-16
-## Photo: data/pics/Strawberry.jpg
-## Quantity: 25
-
-# Okra Syria
-## Common Name: Okra Syria
-## Scientific Name: Abelmoschus esculentus
-## Origin: Syria
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 25-35
-## Harvest Time: 10-12
-## Photo: data/pics/Okra_Syria.jpg
-## Quantity: 12
-
-# Watermelon Zloto Wolicy
-## Common Name: Watermelon Zloto Wolicy
-## Scientific Name: Citrullus lanatus
-## Origin: Poland
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-## Photo: data/pics/Watermelon_Zloto_Wolicy.jpg
-## Quantity: 20
-
-# Watermelon Janosik
-## Common Name: Watermelon Janosik
-## Scientific Name: Citrullus lanatus
-## Origin: Poland
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-## Photo: data/pics/Watermelon_Janosik.jpg
-## Quantity: 20
-
-# Santa Claus Melon
-## Common Name: Santa Claus Melon
-## Scientific Name: Cucumis melo
-## Origin: Spain
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-## Photo: data/pics/Santa_Claus_Melon.jpg
-## Quantity: 40
-
-# Charentais Melon
-## Common Name: Charentais Melon
-## Scientific Name: Cucumis melo
-## Origin: France
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 30-40
-## Harvest Time: 12-14
-## Photo: data/pics/Charentais_Melon.jpg
-## Quantity: 60
-
-# Cucumber Syria
-## Common Name: Cucumber Syria
-## Scientific Name: Cucumis sativus
-## Origin: Syria
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-## Photo: data/pics/Cucumber_Syria.jpg
-## Quantity: 30
-
-# Cucumber Asley
-## Common Name: Cucumber Aslhey
-## Scientific Name: Cucumis sativus
-## Origin: Portugal
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-## Photo: data/pics/Cucumber_Syria.jpg
-## Quantity: 30
-
-# Cucumber Alfa
-## Common Name: Cucumber Alfa
-## Scientific Name: Cucumis sativus
-## Origin: Portugal
-## Sowing Months: May, June
-## Germination Time: 7-14
-## Transplant Time: 20-30
-## Harvest Time: 8-10
-## Photo: data/pics/Cucumber_Syria.jpg
-## Quantity: 30
-
-# Zucchini
-## Common Name: Zucchini
-## Scientific Name: Cucurbita pepo
-## Origin: Portugal
-## Sowing Months: April, May
-## Germination Time: 5-10
-## Transplant Time: 20-30
-## Harvest Time: 6-8
-## Photo: data/pics/Courgette.jpg
-## Quantity: 20
-
-# Yellow Passion Fruit Costa Rica
-## Common Name: Yellow Passion Fruit Costa Rica
-## Scientific Name: Passiflora edulis f. flavicarpa
-## Origin: Costa Rica
-## Sowing Months: March, April
-## Germination Time: 10-21
-## Transplant Time: 60-90
-## Harvest Time: 70-80
-## Photo: data/pics/Sweet_granadillas.jpg
-## Quantity: 15
-
-# Passion Fruit Cape Verde
-## Common Name: Passion Fruit Cape Verde
-## Scientific Name: Passiflora edulis f. flavicarpa
-## Origin: Cape Verde
-## Sowing Months: April, May
-## Germination Time: 10-21
-## Transplant Time: 60-90
-## Harvest Time: 70-80
-## Photo: data/pics/Fruit-de-la-Passion.jpg
-## Quantity: 15
-
-# Perpetua
-## Common Name: Perpetua
-## Scientific Name: Gomphrena globosa
-## Origin: Gesteira
-## Sowing Months: April, May
-## Germination Time: 10-21
-## Transplant Time: 60-90
-## Harvest Time: 70-80
-## Photo: data/pics/Starr_020304-9001_Gomphrena_globosa.jpg
-## Quantity: 15
-
-# Flowers
-## Common Name: Flowers
-## Scientific Name: Flowers
-## Origin: Geneva
-## Sowing Months: April, May
-## Germination Time: 10-21
-## Transplant Time: 60-90
-## Harvest Time: 70-80
-## Photo: data/pics/multi-flowers-880x880.jpg
-## Quantity: 15
+# seed_1750264267972
+## NomCommun: Persil
+## Categorie: Plantes aromatiques
+## Espèce: Persil
+## NomScientifique: Petroselinum crispum
+## TempsGermination: 14-30
+## TempsPourRécolte: 10-12
+## Type: Cyclique
+## Remarques: >
+## Image: /data/pics/1750356023357-543765347.jpg
+
+# seed_1750264267973
+## NomCommun: Ciboulette
+## Categorie: Plantes aromatiques
+## Espèce: Ciboulette
+## NomScientifique: Allium schoenoprasum
+## TempsGermination: 7-14
+## TempsPourRécolte: 6-8
+## Type: Statique
+## Image: /data/pics/Chives_(Cebolinho).png
+
+# seed_1750264267974
+## NomCommun: Coriandre
+## Categorie: Plantes aromatiques
+## Espèce: Coriandre
+## NomScientifique: Coriandrum sativum
+## TempsGermination: 7-14
+## TempsPourRécolte: 4-6
+## Type: Cyclique
+## Image: /data/pics/Common_Coriander.jpg
+
+# seed_1750264267975
+## NomCommun: Menthe
+## Categorie: Plantes aromatiques
+## Espèce: Menthe
+## NomScientifique: Mentha spicata
+## Type: Statique
+## Image: /data/pics/Mint.jpg
+
+# seed_1750264267976
+## NomCommun: Thym
+## Categorie: Plantes aromatiques
+## Espèce: Thym
+## NomScientifique: Thymus vulgaris
+## TempsGermination: 14-28
+## TempsPourRécolte: 12-16
+## Type: Statique
+## Image: /data/pics/Thyme.jpg
+
+# seed_1750264267977
+## NomCommun: Romarin
+## Categorie: Plantes aromatiques
+## Espèce: Romarin
+## NomScientifique: Rosmarinus officinalis
+## TempsGermination: 15-30
+## TempsPourRécolte: 12-24
+## Type: Statique
+## Image: /data/pics/Rosemary.jpg
+
+# seed_1750264267978
+## NomCommun: Origan
+## Categorie: Plantes aromatiques
+## Espèce: Origan
+## NomScientifique: Origanum vulgare
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-12
+## Type: Statique
+## Image: /data/pics/Oregano.jpg
+
+# seed_1750264267979
+## NomCommun: Sauge
+## Categorie: Plantes aromatiques
+## Espèce: Sauge
+## NomScientifique: Salvia officinalis
+## Type: Statique
+## Image: /data/pics/1750274920673-815960892.png
+
+# seed_1750264267980
+## NomCommun: Estragon
+## Categorie: Plantes aromatiques
+## Espèce: Estragon
+## NomScientifique: Artemisia dracunculus
+## TempsGermination: 10-14
+## TempsPourRécolte: 8-12
+## Type: Statique
+## Image: /data/pics/Tarragon.jpg
+
+# seed_1750264267981
+## NomCommun: Aneth
+## Categorie: Plantes aromatiques
+## Espèce: Aneth
+## NomScientifique: Anethum graveolens
+## TempsGermination: 7-21
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/pics/Dill.png
+
+# seed_1750264267982
+## NomCommun: Laurier
+## Categorie: Plantes aromatiques
+## Espèce: Laurier
+## NomScientifique: Laurus nobilis
+## Type: Statique
+## Image: /data/pics/1750274965164-337957350.png
+
+# seed_1750264267983
+## NomCommun: Mélisse
+## Categorie: Plantes aromatiques
+## Espèce: Mélisse
+## NomScientifique: Melissa officinalis
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-12
+## Type: Statique
+## Image: /data/pics/Lemon_Balm.jpg
+
+# seed_1750264267984
+## NomCommun: Cerfeuil
+## Categorie: Plantes aromatiques
+## Espèce: Cerfeuil
+## NomScientifique: Anthriscus cerefolium
+## TempsGermination: 7-14
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/pics/Common_Chervil.jpg
+
+# seed_1750264267985
+## NomCommun: Sarriette
+## Categorie: Plantes aromatiques
+## Espèce: Sarriette
+## NomScientifique: Satureja hortensis
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-12
+## Type: Cyclique
+## Image: /data/pics/Summer_savory.jpg
+
+# seed_1750264267986
+## NomCommun: Pommier
+## Categorie: Plantes fruitières
+## Espèce: Pommier
+## NomScientifique: Malus domestica
+## Type: Statique
+## Image: /data/pics/1750275095268-886989998.png
+
+# seed_1750264267987
+## NomCommun: Poirier
+## Categorie: Plantes fruitières
+## Espèce: Poirier
+## NomScientifique: Pyrus communis
+## TempsGermination: 30-60
+## TempsPourRécolte: 104-260
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267988
+## NomCommun: Cerisier
+## Categorie: Plantes fruitières
+## Espèce: Cerisier
+## NomScientifique: Prunus avium
+## TempsGermination: 60-90
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267989
+## NomCommun: Prunier
+## Categorie: Plantes fruitières
+## Espèce: Prunier
+## NomScientifique: Prunus domestica
+## TempsGermination: 60-90
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267990
+## NomCommun: Pêcher
+## Categorie: Plantes fruitières
+## Espèce: Pêcher
+## NomScientifique: Prunus persica
+## TempsGermination: 60-90
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267991
+## NomCommun: Abricotier
+## Categorie: Plantes fruitières
+## Espèce: Abricotier
+## NomScientifique: Prunus armeniaca
+## TempsGermination: 60-90
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267992
+## NomCommun: Framboisier
+## Categorie: Plantes fruitières
+## Espèce: Framboisier
+## NomScientifique: Rubus idaeus
+## TempsGermination: 21-42
+## TempsPourRécolte: 52-104
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267993
+## NomCommun: Mûrier
+## Categorie: Plantes fruitières
+## Espèce: Mûrier
+## NomScientifique: Rubus fruticosus
+## TempsGermination: 21-42
+## TempsPourRécolte: 52-104
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267994
+## NomCommun: Groseillier
+## Categorie: Plantes fruitières
+## Espèce: Groseillier
+## NomScientifique: Ribes rubrum
+## TempsGermination: 14-28
+## TempsPourRécolte: 52-104
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267995
+## NomCommun: Cassissier
+## Categorie: Plantes fruitières
+## Espèce: Cassissier
+## NomScientifique: Ribes nigrum
+## TempsGermination: 14-28
+## TempsPourRécolte: 52-104
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267996
+## NomCommun: Vigne
+## Categorie: Plantes fruitières
+## Espèce: Vigne
+## NomScientifique: Vitis vinifera
+## TempsGermination: 21-42
+## TempsPourRécolte: 104-156
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267997
+## NomCommun: Oranger
+## Categorie: Plantes fruitières
+## Espèce: Oranger
+## NomScientifique: Citrus sinensis
+## TempsGermination: 14-28
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267998
+## NomCommun: Citronnier
+## Categorie: Plantes fruitières
+## Espèce: Citronnier
+## NomScientifique: Citrus limon
+## TempsGermination: 14-28
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264267999
+## NomCommun: Mandarinier
+## Categorie: Plantes fruitières
+## Espèce: Mandarinier
+## NomScientifique: Citrus reticulata
+## TempsGermination: 14-28
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268000
+## NomCommun: Figuier
+## Categorie: Plantes fruitières
+## Espèce: Figuier
+## NomScientifique: Ficus carica
+## TempsGermination: 14-28
+## TempsPourRécolte: 104-156
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268001
+## NomCommun: Grenadier
+## Categorie: Plantes fruitières
+## Espèce: Grenadier
+## NomScientifique: Punica granatum
+## TempsGermination: 14-28
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268002
+## NomCommun: Kaki
+## Categorie: Plantes fruitières
+## Espèce: Kaki
+## NomScientifique: Diospyros kaki
+## TempsGermination: 30-60
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268003
+## NomCommun: Noyer
+## Categorie: Plantes fruitières
+## Espèce: Noyer
+## NomScientifique: Juglans regia
+## TempsGermination: 30-60
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268004
+## NomCommun: Amandier
+## Categorie: Plantes fruitières
+## Espèce: Amandier
+## NomScientifique: Prunus dulcis
+## TempsGermination: 30-60
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268005
+## NomCommun: Bananier
+## Categorie: Plantes fruitières
+## Espèce: Bananier
+## NomScientifique: Musa acuminata
+## TempsGermination: 60-120
+## TempsPourRécolte: 52-104
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268006
+## NomCommun: Ananas
+## Categorie: Plantes fruitières
+## Espèce: Ananas
+## NomScientifique: Ananas comosus
+## TempsGermination: 60-120
+## TempsPourRécolte: 52-104
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268007
+## NomCommun: Mangue
+## Categorie: Plantes fruitières
+## Espèce: Mangue
+## NomScientifique: Mangifera indica
+## TempsGermination: 14-28
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268008
+## NomCommun: Avocatier
+## Categorie: Plantes fruitières
+## Espèce: Avocatier
+## NomScientifique: Persea americana
+## TempsGermination: 30-60
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268009
+## NomCommun: Kiwier
+## Categorie: Plantes fruitières
+## Espèce: Kiwier
+## NomScientifique: Actinidia deliciosa
+## TempsGermination: 21-42
+## TempsPourRécolte: 104-156
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268010
+## NomCommun: Goyavier
+## Categorie: Plantes fruitières
+## Espèce: Goyavier
+## NomScientifique: Psidium guajava
+## TempsGermination: 14-28
+## TempsPourRécolte: 104-156
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268011
+## NomCommun: Tomate
+## Categorie: Légumes
+## Espèce: Tomate
+## NomScientifique: Solanum lycopersicum
+## TempsGermination: 5-10
+## TempsPourRécolte: 8-12
+## Type: Cyclique
+## Image: /data/pics/Tomato.jpg
+
+# seed_1750264268012
+## NomCommun: Poivron
+## Categorie: Légumes
+## Espèce: Poivron
+## NomScientifique: Capsicum annuum
+## Type: Cyclique
+## Image: /data/pics/1750291482657-238269510.jpg
+
+# seed_1750264268013
+## NomCommun: Aubergine
+## Categorie: Légumes
+## Espèce: Aubergine
+## NomScientifique: Solanum melongena
+## TempsGermination: 7-14
+## TempsPourRécolte: 12-16
+## Type: Cyclique
+## Image: /data/pics/Eggplant_Jamal.png
+
+# seed_1750264268014
+## NomCommun: Courgette
+## Categorie: Légumes
+## Espèce: Courgette
+## NomScientifique: Cucurbita pepo
+## TempsGermination: 5-10
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/pics/Courgette.jpg
+
+# seed_1750264268015
+## NomCommun: Concombre
+## Categorie: Légumes
+## Espèce: Concombre
+## NomScientifique: Cucumis sativus
+## TempsGermination: 5-10
+## TempsPourRécolte: 8-10
+## Type: Cyclique
+## Image: /data/pics/Normal_Cucumber.jpg
+
+# seed_1750264268016
+## NomCommun: Carotte
+## Categorie: Légumes
+## Espèce: Carotte
+## NomScientifique: Daucus carota
+## TempsGermination: 10-21
+## TempsPourRécolte: 10-12
+## Type: Cyclique
+## Image: /data/pics/Carrot.jpg
+
+# seed_1750264268017
+## NomCommun: Betterave
+## Categorie: Légumes
+## Espèce: Betterave
+## NomScientifique: Beta vulgaris
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-10
+## Type: Cyclique
+## Image: /data/pics/Beet_Syria.jpg
+
+# seed_1750264268018
+## NomCommun: Radis
+## Categorie: Légumes
+## Espèce: Radis
+## NomScientifique: Raphanus sativus
+## Type: Cyclique
+## Image: /data/pics/1750274515591-988812721.jpg
+
+# seed_1750264268019
+## NomCommun: Navet
+## Categorie: Légumes
+## Espèce: Navet
+## NomScientifique: Brassica rapa
+## TempsGermination: 3-7
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268020
+## NomCommun: Chou-fleur
+## Categorie: Légumes
+## Espèce: Chou-fleur
+## NomScientifique: Brassica oleracea
+## TempsGermination: 5-10
+## TempsPourRécolte: 12-16
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268021
+## NomCommun: Brocoli
+## Categorie: Légumes
+## Espèce: Brocoli
+## NomScientifique: Brassica oleracea
+## TempsGermination: 5-10
+## TempsPourRécolte: 10-14
+## Type: Cyclique
+## Image: /data/pics/Broccoli_Romanesco_Natalino.jpg
+
+# seed_1750264268022
+## NomCommun: Chou de Bruxelles
+## Categorie: Légumes
+## Espèce: Chou de Bruxelles
+## NomScientifique: Brassica oleracea
+## TempsGermination: 5-10
+## TempsPourRécolte: 12-16
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268023
+## NomCommun: Chou vert
+## Categorie: Légumes
+## Espèce: Chou vert
+## NomScientifique: Brassica oleracea
+## TempsGermination: 5-10
+## TempsPourRécolte: 10-12
+## Type: Cyclique
+## Image: /data/pics/Red_Cabbage.png
+
+# seed_1750264268024
+## NomCommun: Épinard
+## Categorie: Légumes
+## Espèce: Épinard
+## NomScientifique: Spinacia oleracea
+## TempsGermination: 7-14
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/pics/Giant_Spinach.jpg
+
+# seed_1750264268025
+## NomCommun: Laitue
+## Categorie: Légumes
+## Espèce: Laitue
+## NomScientifique: Lactuca sativa
+## TempsGermination: 7-10
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/pics/Lettuce_Bonde_de_Paris.jpg
+
+# seed_1750264268026
+## NomCommun: Roquette
+## Categorie: Légumes
+## Espèce: Roquette
+## NomScientifique: Eruca vesicaria
+## TempsGermination: 5-7
+## TempsPourRécolte: 4-6
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268027
+## NomCommun: Céleri
+## Categorie: Légumes
+## Espèce: Céleri
+## NomScientifique: Apium graveolens
+## TempsGermination: 14-21
+## TempsPourRécolte: 16-20
+## Type: Cyclique
+## Image: /data/pics/Head_Celery.jpg
+
+# seed_1750264268028
+## NomCommun: Poireau
+## Categorie: Légumes
+## Espèce: Poireau
+## NomScientifique: Allium ampeloprasum
+## TempsGermination: 7-14
+## TempsPourRécolte: 12-16
+## Type: Cyclique
+## Image: /data/pics/Leek_de_Carentan_3.jpg
+
+# seed_1750264268029
+## NomCommun: Oignon
+## Categorie: Légumes
+## Espèce: Oignon
+## NomScientifique: Allium cepa
+## TempsGermination: 7-14
+## TempsPourRécolte: 12-16
+## Type: Cyclique
+## Image: /data/pics/Onion_Purple_de_Amposta.jpg
+
+# seed_1750264268030
+## NomCommun: Ail
+## Categorie: Légumes
+## Espèce: Ail
+## NomScientifique: Allium sativum
+## TempsGermination: 14-30
+## TempsPourRécolte: 24-36
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268031
+## NomCommun: Haricot vert
+## Categorie: Légumes
+## Espèce: Haricot vert
+## NomScientifique: Phaseolus vulgaris
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-10
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268032
+## NomCommun: Pois
+## Categorie: Légumes
+## Espèce: Pois
+## NomScientifique: Pisum sativum
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-12
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268033
+## NomCommun: Fève
+## Categorie: Légumes
+## Espèce: Fève
+## NomScientifique: Vicia faba
+## TempsGermination: 7-14
+## TempsPourRécolte: 12-16
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268034
+## NomCommun: Maïs
+## Categorie: Légumes
+## Espèce: Maïs
+## NomScientifique: Zea mays
+## TempsGermination: 5-10
+## TempsPourRécolte: 10-14
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268035
+## NomCommun: Artichaut
+## Categorie: Légumes
+## Espèce: Artichaut
+## NomScientifique: Cynara cardunculus
+## TempsGermination: 10-21
+## TempsPourRécolte: 20-24
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268036
+## NomCommun: Asperge
+## Categorie: Légumes
+## Espèce: Asperge
+## NomScientifique: Asparagus officinalis
+## TempsGermination: 14-28
+## TempsPourRécolte: 104-156
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268037
+## NomCommun: Fenouil
+## Categorie: Légumes
+## Espèce: Fenouil
+## NomScientifique: Foeniculum vulgare
+## TempsGermination: 7-14
+## TempsPourRécolte: 12-16
+## Type: Cyclique
+## Image: /data/pics/Fennel.png
+
+# seed_1750264268038
+## NomCommun: Camomille
+## Categorie: Herbes médicinales
+## Espèce: Camomille
+## NomScientifique: Matricaria chamomilla
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-12
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268039
+## NomCommun: Valériane
+## Categorie: Herbes médicinales
+## Espèce: Valériane
+## NomScientifique: Valeriana officinalis
+## TempsGermination: 7-21
+## TempsPourRécolte: 12-16
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268040
+## NomCommun: Millepertuis
+## Categorie: Herbes médicinales
+## Espèce: Millepertuis
+## NomScientifique: Hypericum perforatum
+## TempsGermination: 10-20
+## TempsPourRécolte: 12-16
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268041
+## NomCommun: Échinacée
+## Categorie: Herbes médicinales
+## Espèce: Échinacée
+## NomScientifique: Echinacea purpurea
+## TempsGermination: 10-20
+## TempsPourRécolte: 16-20
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268042
+## NomCommun: Gingembre
+## Categorie: Herbes médicinales
+## Espèce: Gingembre
+## NomScientifique: Zingiber officinale
+## TempsGermination: 21-42
+## TempsPourRécolte: 32-40
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268043
+## NomCommun: Curcuma
+## Categorie: Herbes médicinales
+## Espèce: Curcuma
+## NomScientifique: Curcuma longa
+## TempsGermination: 21-42
+## TempsPourRécolte: 32-40
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268044
+## NomCommun: Ginseng
+## Categorie: Herbes médicinales
+## Espèce: Ginseng
+## NomScientifique: Panax ginseng
+## TempsGermination: 180-360
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268045
+## NomCommun: Aloès
+## Categorie: Herbes médicinales
+## Espèce: Aloès
+## NomScientifique: Aloe vera
+## TempsGermination: 14-28
+## TempsPourRécolte: 104-156
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268046
+## NomCommun: Angélique
+## Categorie: Herbes médicinales
+## Espèce: Angélique
+## NomScientifique: Angelica archangelica
+## TempsGermination: 14-28
+## TempsPourRécolte: 12-16
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268047
+## NomCommun: Bourrache
+## Categorie: Herbes médicinales
+## Espèce: Bourrache
+## NomScientifique: Borago officinalis
+## TempsGermination: 7-14
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268048
+## NomCommun: Calendula
+## Categorie: Herbes médicinales
+## Espèce: Calendula
+## NomScientifique: Calendula officinalis
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-12
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268049
+## NomCommun: Fenugrec
+## Categorie: Herbes médicinales
+## Espèce: Fenugrec
+## NomScientifique: Trigonella foenum-graecum
+## TempsGermination: 3-7
+## TempsPourRécolte: 12-16
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268050
+## NomCommun: Réglisse
+## Categorie: Herbes médicinales
+## Espèce: Réglisse
+## NomScientifique: Glycyrrhiza glabra
+## TempsGermination: 14-28
+## TempsPourRécolte: 104-156
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268051
+## NomCommun: Tilleul
+## Categorie: Herbes médicinales
+## Espèce: Tilleul
+## NomScientifique: Tilia cordata
+## TempsGermination: 30-60
+## TempsPourRécolte: 156-312
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268052
+## NomCommun: Verveine
+## Categorie: Herbes médicinales
+## Espèce: Verveine
+## NomScientifique: Verbena officinalis
+## TempsGermination: 14-28
+## TempsPourRécolte: 12-16
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268053
+## NomCommun: Achillée millefeuille
+## Categorie: Herbes médicinales
+## Espèce: Achillée millefeuille
+## NomScientifique: Achillea millefolium
+## TempsGermination: 7-14
+## TempsPourRécolte: 12-16
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268054
+## NomCommun: Pomme de terre
+## Categorie: Plantes à tubercules
+## Espèce: Pomme de terre
+## NomScientifique: Solanum tuberosum
+## TempsGermination: 7-14
+## TempsPourRécolte: 12-16
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268055
+## NomCommun: Patate douce
+## Categorie: Plantes à tubercules
+## Espèce: Patate douce
+## NomScientifique: Ipomoea batatas
+## TempsGermination: 14-28
+## TempsPourRécolte: 16-20
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268056
+## NomCommun: Igname
+## Categorie: Plantes à tubercules
+## Espèce: Igname
+## NomScientifique: Dioscorea spp.
+## TempsGermination: 21-42
+## TempsPourRécolte: 20-24
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268057
+## NomCommun: Topinambour
+## Categorie: Plantes à tubercules
+## Espèce: Topinambour
+## NomScientifique: Helianthus tuberosus
+## TempsGermination: 7-14
+## TempsPourRécolte: 16-20
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268058
+## NomCommun: Manioc
+## Categorie: Plantes à tubercules
+## Espèce: Manioc
+## NomScientifique: Manihot esculenta
+## TempsGermination: 14-28
+## TempsPourRécolte: 24-36
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268059
+## NomCommun: Taro
+## Categorie: Plantes à tubercules
+## Espèce: Taro
+## NomScientifique: Colocasia esculenta
+## TempsGermination: 14-28
+## TempsPourRécolte: 20-24
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268060
+## NomCommun: Crosne
+## Categorie: Plantes à tubercules
+## Espèce: Crosne
+## NomScientifique: Stachys affinis
+## TempsGermination: 7-14
+## TempsPourRécolte: 16-20
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268061
+## NomCommun: Oca du Pérou
+## Categorie: Plantes à tubercules
+## Espèce: Oca du Pérou
+## NomScientifique: Oxalis tuberosa
+## TempsGermination:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+## TempsPourRécolte:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268062
+## NomCommun: Ulluco
+## Categorie: Plantes à tubercules
+## Espèce: Ulluco
+## NomScientifique: Ullucus tuberosus
+## TempsGermination:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+## TempsPourRécolte:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268063
+## NomCommun: Maca
+## Categorie: Plantes à tubercules
+## Espèce: Maca
+## NomScientifique: Lepidium meyenii
+## TempsGermination: 7-14
+## TempsPourRécolte: 20-24
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268064
+## NomCommun: Pissenlit
+## Categorie: Plantes comestibles sauvages
+## Espèce: Pissenlit
+## NomScientifique: Taraxacum officinale
+## TempsGermination: 7-21
+## TempsPourRécolte: 8-12
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268065
+## NomCommun: Ortie
+## Categorie: Plantes comestibles sauvages
+## Espèce: Ortie
+## NomScientifique: Urtica dioica
+## TempsGermination: 10-14
+## TempsPourRécolte: 8-12
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268066
+## NomCommun: Plantain
+## Categorie: Plantes comestibles sauvages
+## Espèce: Plantain
+## NomScientifique: Plantago major
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-12
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268067
+## NomCommun: Pourpier
+## Categorie: Plantes comestibles sauvages
+## Espèce: Pourpier
+## NomScientifique: Portulaca oleracea
+## TempsGermination: 7-10
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268068
+## NomCommun: Amarante
+## Categorie: Plantes comestibles sauvages
+## Espèce: Amarante
+## NomScientifique: Amaranthus spp.
+## TempsGermination: 7-10
+## TempsPourRécolte: 8-12
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268069
+## NomCommun: Chénopode
+## Categorie: Plantes comestibles sauvages
+## Espèce: Chénopode
+## NomScientifique: Chenopodium album
+## TempsGermination: 7-14
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268070
+## NomCommun: Mâche sauvage
+## Categorie: Plantes comestibles sauvages
+## Espèce: Mâche sauvage
+## NomScientifique: Valerianella locusta
+## TempsGermination: 7-14
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Remarques: >
+## Image: /data/icons/seed.png
+
+# seed_1750264268071
+## NomCommun: Alliaire
+## Categorie: Plantes comestibles sauvages
+## Espèce: Alliaire
+## NomScientifique: Alliaria petiolata
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-12
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268072
+## NomCommun: Ail des ours
+## Categorie: Plantes comestibles sauvages
+## Espèce: Ail des ours
+## NomScientifique: Allium ursinum
+## TempsGermination: 14-28
+## TempsPourRécolte: 12-16
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268073
+## NomCommun: Asperge sauvage
+## Categorie: Plantes comestibles sauvages
+## Espèce: Asperge sauvage
+## NomScientifique: Asparagus acutifolius
+## TempsGermination: 14-28
+## TempsPourRécolte: 104-156
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268074
+## NomCommun: Capucine
+## Categorie: Plantes comestibles sauvages
+## Espèce: Capucine
+## NomScientifique: Tropaeolum majus
+## TempsGermination: 7-14
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268075
+## NomCommun: Consoude
+## Categorie: Plantes comestibles sauvages
+## Espèce: Consoude
+## NomScientifique: Symphytum officinale
+## TempsGermination: 10-20
+## TempsPourRécolte: 12-16
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268076
+## NomCommun: Églantier
+## Categorie: Plantes comestibles sauvages
+## Espèce: Églantier
+## NomScientifique: Rosa canina
+## TempsGermination: 30-60
+## TempsPourRécolte: 104-156
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268077
+## NomCommun: Sureau
+## Categorie: Plantes comestibles sauvages
+## Espèce: Sureau
+## NomScientifique: Sambucus nigra
+## TempsGermination: 30-60
+## TempsPourRécolte: 104-156
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268078
+## NomCommun: Violette
+## Categorie: Plantes comestibles sauvages
+## Espèce: Violette
+## NomScientifique: Viola odorata
+## TempsGermination: 14-28
+## TempsPourRécolte: 12-16
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268079
+## NomCommun: Mouron blanc
+## Categorie: Plantes comestibles sauvages
+## Espèce: Mouron blanc
+## NomScientifique: Stellaria media
+## TempsGermination: 7-14
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268080
+## NomCommun: Stellaire
+## Categorie: Plantes comestibles sauvages
+## Espèce: Stellaire
+## NomScientifique: Stellaria media
+## Type: Cyclique
+## Image: /data/pics/1750274861307-242000550.png
+
+# seed_1750264268081
+## NomCommun: Berce
+## Categorie: Plantes comestibles sauvages
+## Espèce: Berce
+## NomScientifique: Heracleum sphondylium
+## TempsGermination: 14-28
+## TempsPourRécolte: 12-16
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750264268082
+## NomCommun: Oxalis
+## Categorie: Plantes comestibles sauvages
+## Espèce: Oxalis
+## NomScientifique: Oxalis corniculata
+## TempsGermination: 7-14
+## TempsPourRécolte: 6-8
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750264268083
+## NomCommun: Trèfle
+## Categorie: Plantes comestibles sauvages
+## Espèce: Trèfle
+## NomScientifique: Trifolium repens
+## TempsGermination: 7-14
+## TempsPourRécolte: 8-12
+## Type: Statique
+## Image: /data/icons/seed.png
+
+# seed_1750274664851
+## NomCommun: Basilic
+## Categorie: Plantes aromatiques
+## Espèce: Basilic
+## Type: Cyclique
+## Image: /data/icons/seed.png
+
+# seed_1750335574945
+## NomCommun: Plante digitale
+## Categorie: Plantes aromatiques
+## Espèce: Persil
+## NomScientifique: fver
+## TempsGermination: 1-5
+## TempsPourRécolte: 1-19
+## Type: Cyclique
+## Remarques: >
+## Image: /data/icons/seed.png
+
+# seed_1750349126513
+## NomCommun: plante_334
+## Categorie: Plantes aromatiques
+## Espèce: Basilic
+## NomScientifique: Ocimum basilicum carota
+## TempsGermination: 1-1
+## TempsPourRécolte: 1-1
+## Type: Cyclique
+## Remarques: >>>
+## Image: /data/pics/1750350292916-486895091.jpg
+

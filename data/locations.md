@@ -1,29 +1,21 @@
-# TRAY A (14x21)
-## Name: TRAY A (14x21)
-## Capacity: 294
-## Photo: data/pics/PXL_20250406_140514704.jpg
+# TRAY 9
+## Nom: Casissette test
+## Adresse: chemin de la rue
+## Type: Pot
+## Remarques: test
+## Image: /data/icons/caissette.png
 
-# TRAY B (12x18)
-## Name: TRAY B (12x18)
-## Capacity: 216
-## Photo: data/pics/PXL_20250406_140531556.jpg
+# Parcelle A chez OBF
+## Nom: Parcelle A chez OBF
+## Adresse: chemin de la rue
+## Type: Parcelle
+## Image: /data/icons/parcelle.png
 
-# TRAY C (12x19)
-## Name: TRAY C (12x19)
-## Capacity: 228
-## Photo: data/pics/PXL_20250406_140514704.jpg
+# TRAY C
+## Nom: TRAY C
+## Adresse: chemin de la rue
+## Type: Parcelle
+## Surface: 0.5
+## Remarques: ckvjhbk
+## Image: /data/pics/1750356229928-432817701.jpg
 
-# TRAY D (12x19)
-## Name: TRAY D (12x19)
-## Capacity: 228
-## Photo: data/pics/PXL_20250406_140456831.jpg
-
-# TRAY E (12x19)
-## Name: TRAY E (12x19)
-## Capacity: 228
-## Photo: data/pics/PXL_20250406_140520972.jpg
-
-# TRAY F (12x18)
-## Name: TRAY F (12x18)
-## Capacity: 216
-## Photo: data/pics/PXL_20250406_140531556.jpg
